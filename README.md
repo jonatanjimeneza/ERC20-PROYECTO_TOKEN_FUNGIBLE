@@ -5,8 +5,11 @@ Buenas y bienvenid@☼s a nuevo video! En el video hablaremos del uso del Token 
 Que veremos?
 
 1.Qué es exactamente un Token ERC20?
+
 2.Cómo funcionan los Tokens ERC20?
+
 3.Porque se crearon los Tokens ERC20?
+
 4. Caracteristicas principales de los Tokens ERC20.
 
 *Proyecto del Token ERC20 con un Smart Contract en el entorno de desarrollo de Remix.
